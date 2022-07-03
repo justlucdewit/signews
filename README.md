@@ -1,4 +1,5 @@
 # signews
+Opensource and free programming and technology news site
 
 ## Project setup
 ```
